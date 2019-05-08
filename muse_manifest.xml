@@ -1,0 +1,254 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="baibaiyy.com" resolutions="1x" timestamp="1557308571435">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4114054948" ref="index"/>
+    <file name="index.css" crc="3810429457" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="瀝青jj.pdf" crc="3823714250" seo="true" mt="1557242893000"/>
+    <file name="0001-2.jpg" crc="3952828358" seo="true" mt="1557266246000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="0001-2.jpg" crc="188218662" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 20.png" crc="215008376" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 17.png" crc="306487106" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4068591081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="354319109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4232193528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-1.jpg" crc="473933142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-2.jpg" crc="170077058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4047578837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3779243592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3923597095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4086313847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3777933681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.jpg" crc="141428701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.jpg" crc="4233325277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="86315354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13.jpg" crc="299847354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="14.jpg" crc="381538908" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22.jpg" crc="4231588003" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32.jpg" crc="319085461" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 18.png" crc="258091026" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15.jpg" crc="110783969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23.jpg" crc="403357480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33.jpg" crc="167357604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4163358775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52.jpg" crc="3932579631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="62.jpg" crc="143809940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="72.jpg" crc="4033708447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="82.jpg" crc="3944474891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="92.jpg" crc="446464624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="102.jpg" crc="4254975610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112.jpg" crc="4250826068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 16.png" crc="321963650" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16.jpg" crc="254362947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24.jpg" crc="207955197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34.jpg" crc="460328722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="42.jpg" crc="4226724735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="53.jpg" crc="199635200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="63.jpg" crc="4193155264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="73.jpg" crc="121418250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="83.jpg" crc="494673044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="93.jpg" crc="465921339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="103.jpg" crc="281205182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="113.jpg" crc="25613587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="122.jpg" crc="4073683455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="132.jpg" crc="3770206716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 14.png" crc="230283818" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17.jpg" crc="353006790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25.jpg" crc="163967616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="35.jpg" crc="4225694407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="43.jpg" crc="3868061551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="54.jpg" crc="74600626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="64.jpg" crc="321771081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="74.jpg" crc="26957948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="84.jpg" crc="28723613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94.jpg" crc="4199708653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="104.jpg" crc="4247952587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="114.jpg" crc="127749512" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="133.jpg" crc="84013360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14-crop-u4137.jpg" crc="526048139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 15.png" crc="57868441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18.jpg" crc="4274379249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="26.jpg" crc="4187254086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="36.jpg" crc="4138271040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="44.jpg" crc="4136493719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55.jpg" crc="4079160344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="65.jpg" crc="167870287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="75.jpg" crc="223167443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="85.jpg" crc="478710499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="95.jpg" crc="72055959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="105.jpg" crc="3889353144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7291d268-c261-4b20-a820-cb9fe8a3348c.jpg" crc="238102136" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 19.png" crc="4127282476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 21.png" crc="4155255525" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4185295101" seo="true" mt="1557308569451" redirect="true"/>
+</manifest>
